@@ -56,10 +56,56 @@ img{
     text-align: center;
     line-height: 40px;
 }
-
-
-
-
+.image1{
+    position: relative;
+    left: 10px;
+    background-image: url(images/image1.jpg);
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.image2{
+    position: relative;
+    left: 10px;
+    background-image: url(images/image2.jpg);
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.image3{
+    position: relative;
+    left: 10px;
+    background-image: url(images/image3.jpg);
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
+.caption{
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 5px;
+    position: relative;
+    top: 155px;
+}
+.caption2{
+    background-color: #4aaaa5;
+    height: 50px;
+    width: 250px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 5px;
+    position: relative;
+    top: 155px;    
+}
 .form-group{
     font-size: 20px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
